@@ -1,0 +1,73 @@
+header {
+    text-align: center;
+    margin-top: 35px;
+}
+
+.box h2 {
+    padding-left: 25px;
+}
+
+button {
+    margin-left: 25px;
+    margin-top: 10px;
+    width: 150px;
+    height: 25px;
+}
+
+section {
+    display: block;
+    position: relative;
+}
+
+img {
+    position: absolute;
+    width: 30%;
+    height: auto;
+    border: 2px solid rgb(86, 5, 5);
+    border-radius: 15px;
+    left: 307px;
+    bottom: 7px;
+}
+
+.box {
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    border: 5px solid gray;
+    border-radius: 15px;
+    width: 425px;
+    height: 125px;
+}
+
+.griffindor {
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color:rgb(128, 26, 26);
+    color: white;
+    border: 5px solid rgb(251, 251, 93)
+}
+
+.ravenclaw {
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: rgb(110, 15, 199);
+    color: white;
+    border: 5px solid rgb(9, 9, 135);
+}
+
+.hufflepuff {
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: rgb(251, 251, 93);
+    color:black;
+    border: 5px solid gray;
+}
+
+.slytherin {
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: rgb(9, 99, 9);
+    color: black;
+    border: 5px solid gray;
+}
